@@ -1,0 +1,48 @@
+"                            __                 __   "
+".-----.-----.--.--.--.-----.|  |--.-----.---.-.|  |_ "
+"|     |  -__|  |  |  |__ --||  _  |  _  |  _  ||   _|"
+"|__|__|_____|________|_____||_____|_____|___._||____|"
+" ------------------------------------------------------------- "
+                                                    
+ " -- Forums  "
+https://archlinux.org/feeds/planet "arch-planet"
+https://artixlinux.org/feed.php "artix-linux"
+https://archlinux.org/feeds/news "arch-news"
+
+" -- youtube & LBRY  "
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkf4VIqu3Acnfzuk3kRIFwA "~gotbletu" 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~luke-smith"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "~mental-outlaw"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q "~Kurzgesagt"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A "~Tom Scott"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3ts8coMP645hZw9JSD3pqQ "~Andreas Kling"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg "~Wolfgang's Channel"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA "~Brodie Robertson"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCKTehwyGCKF-b2wo0RKwrcg "~Bisquit"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZrrEuHiQjN2CUo84g5tk7w "~tripcode"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCfhSB16X9MXhzSFe_H7XbHg "~Bryan Jenks"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCf93fPKwotph47H3_KDcRyg "~Kris Occhipinti"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwgKmJM4ZJQRJ-U5NjvR2dg "~commaai archive"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w "~Louis Rossmann"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0e3QhIYukixgh5VVpKHH9Q "~Code Bullet"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCrv269YwJzuZL3dH5PCgxUw "~Code Parade"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg "~Distrotube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9DR22-qohBDtZ74R3FxOZg "~Emilio"
+
+" -- blogs "
+http://lukesmith.xyz/rss.xml "~Luke Smith (Blog)"
+http://esr.ibiblio.org/?feed=rss2 "~esr (Blog)"
+https://www.nayuki.io/rss20.xml "~nayuki (Blog)"
+https://suckless.org/atom.xml "~Suckless (Feed)"
+https://fabiensanglard.net/rss.xml "~Fabien Sanglard (Blog)"
+https://hexdsl.co.uk/rss.xml "~Hexdsl (Blog)"
+https://risingthumb.xyz/rss.xml "~RisingThumb (Blog)"
+https://godotengine.org/rss.xml "~Godot news"
+https://www.linuxjournal.com/node/feed "~Linux Journal"
+
+
+" ------------------------------------------------------- "
+
+
+
+

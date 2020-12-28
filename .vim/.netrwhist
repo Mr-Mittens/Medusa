@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/mr-kat/slstatus'
+let g:netrw_dirhist_7='/home/mr-kat/.config/cmus'
+let g:netrw_dirhist_6='/home/mr-kat/.config/picom'
+let g:netrw_dirhist_5='/home/mr-kat/.config/termite'
+let g:netrw_dirhist_4='/home/mr-kat/.config/picom'
+let g:netrw_dirhist_3='/home/mr-kat/dwm-6.2'
+let g:netrw_dirhist_2='/boot'
+let g:netrw_dirhist_1='/home/mr-kat/.config/picom'
+let g:netrw_dirhist_0='/home/mr-kat'
+let g:netrw_dirhist_9='/home/mr-kat/slstatus'

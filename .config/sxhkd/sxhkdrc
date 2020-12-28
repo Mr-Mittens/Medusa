@@ -1,0 +1,45 @@
+#sxhkd cuts
+
+
+#Screenshot
+Print
+    scrot #'scrot-%Y-%m-%d-%s_screenshot_$wx$h.jpg -e mv $f $$(xdg-user-dir PC15/screenshot)'
+
+
+#pulsemixer
+alt + p
+	termite -e pulsemixer
+
+#newsboat
+alt + n
+	termite -e newsboat
+
+#telegram
+alt + t
+        telegram-desktop
+
+
+#brave
+alt + b
+	brave
+
+#firefox
+alt + f
+	firefox
+
+
+#music player
+alt + c
+	termite -e cmus
+
+
+
+
+
+
+
+
+
+# make sxhkd reload its configuration files:
+alt + Escape
+	pkill -USR1 -x sxhkd
