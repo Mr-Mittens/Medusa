@@ -11,7 +11,7 @@ Medusa is a dwm rice which is simple and aesthetic with no complexity!
 
 ![img](assets/medusa.gif)
 
-## setting things up
+### setting things up
 
 - **base install**
 
@@ -44,9 +44,11 @@ Medusa is a dwm rice which is simple and aesthetic with no complexity!
 `PrtSc` - screenshot
 
 
-**credits**
+### **credits**
 
-- [nebulaxyz](https://github.com/nebulaxyz)
+[nebulaxyz](https://github.com/nebulaxyz) & [S-ThirtyFive](https://github.com/S-ThirtyFive)
 
-- [S-ThirtyFive](https://github.com/S-ThirtyFive)
+
+
+
 
