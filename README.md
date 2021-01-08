@@ -44,5 +44,6 @@ Medusa is a dwm rice which is simple and aesthetic with no complexity!
 `PrtSc` - screenshot
 
 
+**credits**
 
-
+[nebulaxyz](https://github.com/nebulaxyz)
