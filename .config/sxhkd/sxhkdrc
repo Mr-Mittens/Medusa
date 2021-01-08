@@ -3,7 +3,7 @@
 
 #Screenshot
 Print
-    scrot #'scrot-%Y-%m-%d-%s_screenshot_$wx$h.jpg -e mv $f $$(xdg-user-dir PC15/screenshot)'
+    scrot ~/images/screenshots/%Y-%m-%d-%T-screenshot.png # moves screenshot to specified dir
 
 
 #pulsemixer
@@ -21,7 +21,7 @@ alt + t
 
 #brave
 alt + b
-	brave
+	chromium
 
 #firefox
 alt + f
@@ -32,7 +32,9 @@ alt + f
 alt + c
 	termite -e cmus
 
-
+#filemanager
+alt + d
+	pcmanfm
 
 
 
