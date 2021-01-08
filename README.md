@@ -11,7 +11,7 @@ Medusa is a dwm rice which is simple and aesthetic with no complexity!
 
 ![img](assets/medusa.gif)
 
-**setting up**
+## setting things up
 
 - **base install**
 
