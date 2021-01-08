@@ -1,4 +1,4 @@
-### Medusa 
+![img](assets/medusa.png)
 
 Medusa is a dwm rice which is simple and aesthetic with no complexity!
 
